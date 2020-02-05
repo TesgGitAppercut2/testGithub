@@ -11,3 +11,4 @@ services:
       file: docker-compose.yml
       service: webwolf
     image: webgoat/webwolf-v8.0.0.snapshot
+    вфывфыв
